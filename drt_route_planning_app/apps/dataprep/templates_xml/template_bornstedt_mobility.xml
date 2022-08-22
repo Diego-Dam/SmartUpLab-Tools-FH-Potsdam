@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Experiment_plan>
+	<Simulation id="2" sourcePath="./mobility_bornstedt/headless_drt.gaml" finalStep="72000" experiment="road_traffic" seed="3">
+	  <Parameters>
+	    <Parameter name="tolerance_distance" type="INT" value="666" />
+	    <Parameter var="include_new_bus_line" type="BOOLEAN" value="False" />
+		<Parameter var="scenario_name" type="STRING" value="scenario_name_22" />
+		<Parameter var="people_df" type="STRING" value="people_2306" />
+	  </Parameters>
+	  <Outputs>
+	  </Outputs>
+	</Simulation>
+</Experiment_plan>
